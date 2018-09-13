@@ -1,4 +1,3 @@
-MRTZUB001_edits
 #!/usr/bin/python
 
 #Import modules
@@ -127,4 +126,3 @@ while True:
 
 GPIO.cleanup()                                                             # clean up GPIO on normal exit
 
-master
