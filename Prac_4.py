@@ -58,7 +58,6 @@ stopFlag = True                                     # flag to monitor if program
 displayList = monitor*5                             # Array to hold values to be displayed after program stops 
 n=0                                                 # counter to monitor amount of values in array
 
-
 while True:
         global t, timer, values, monitor, displayList, n                   # use global variables
         try:
